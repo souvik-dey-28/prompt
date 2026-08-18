@@ -1,0 +1,3 @@
+prompt:
+
+“Please recreate the entire image in a crayon drawing style. Simplify the details so it looks like it was drawn by a 10-year-old child. Do not use the original colors from the image. Make it look like it was drawn on a white sheet of paper, with a very cute overall feeling. You can add some adorable elements such as flowers, candies, stars, clouds, etc., to give it a childlike and innocent vibe.”
